@@ -20,4 +20,4 @@ The data will need to be processed to fit the unsupervised machine learning mode
 
 ### Code
 
-crypto_clustering.ipynb   (file)[crypto_clustering.ipynb]
+crypto_clustering.ipynb   [file](crypto_clustering.ipynb)

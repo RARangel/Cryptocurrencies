@@ -21,3 +21,18 @@ The data will need to be processed to fit the unsupervised machine learning mode
 ### Code
 
 crypto_clustering.ipynb   [file](crypto_clustering.ipynb)
+
+### Plots
+
+- Elbow Curve
+
+![Elbow_curve](https://user-images.githubusercontent.com/98564776/172197519-a1284f11-6b5d-4fad-b36c-e614639ef2d0.PNG)
+
+- 3D Scatter Plot
+
+![3D_scatter](https://user-images.githubusercontent.com/98564776/172197593-fecbcf2f-6736-41ab-9e65-826170ec6aea.PNG)
+
+- HVPlot
+
+![hvplot](https://user-images.githubusercontent.com/98564776/172197639-d049d568-f189-49f8-9da0-055f6f721826.PNG)
+
